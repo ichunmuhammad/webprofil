@@ -1,0 +1,10 @@
+.page-link a{
+    padding-inline: 6px;
+}
+.page-item.active .page-link{
+    background-color: #212529;
+    border-color: #1F262D;
+}
+.page-link, .page-link a{
+    color: #212529;
+}

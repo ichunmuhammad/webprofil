@@ -1,0 +1,34 @@
+.logo-navbar {
+	width: 24px;
+	height: 24px;
+	display: inline !important;
+}
+.bgwhite {
+	background: #ffffff !important;
+}
+.bggrey {
+	background: #e0e0e0 !important;
+}
+.bggreen {
+	background: #028634 !important;
+}
+
+#content{
+	padding: 40px 0px;
+}
+
+.mb20{
+    margin-bottom: 20px;
+}
+
+.card{
+	padding: 20px;
+	background: #ffffff;
+	border: #e0e0e0 solid 0.1em;
+}
+.card-body{
+	padding: 40px 20px !important;
+}
+.border-left{
+	border-left: #028634 solid 1em;
+}

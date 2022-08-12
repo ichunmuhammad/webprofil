@@ -1,0 +1,26 @@
+.table-vertical{
+    border-bottom:solid #d6d6d6 0.01rem;
+}
+.table-vertical tbody {
+    display:block;
+    max-height:320px;
+    overflow-y:scroll;
+}
+.table-vertical thead, .table-vertical tfoot, .table-vertical tbody tr {
+    display:table;
+    width:100%;
+    table-layout:fixed;
+}
+.table-vertical thead, .table-vertical tfoot {
+    width:100%; 
+    background: #484848;
+}
+.table-vertical thead th, .table-vertical tfoot th {
+    color: white;
+}
+.table-vertical table {
+    width:100%;
+}
+/* .table-vertical td, .table-vertical tbody tr th, .table-vertical thead tr, .table-vertical tfoot tr{
+    border:solid #9e9e9e 0.1em;
+} */
